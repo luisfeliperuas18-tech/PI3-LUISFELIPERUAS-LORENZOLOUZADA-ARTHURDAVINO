@@ -1,4 +1,4 @@
-# Aula 02 - Modelo de Espaço Vetorial e Similaridade do Cosseno
+# Consolidado Entrega 2 - Modelo de Espaço Vetorial e Similaridade do Cosseno
 
 ## Descrição
 
