@@ -4,9 +4,9 @@ Projeto desenvolvido para a disciplina de Projeto Integrador III da FATEC Rubens
 
 ## Integrantes
 
-- Luís Felipe Ruas
-- Lorenzo Louzada
 - Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
 
 ## Instituição
 
