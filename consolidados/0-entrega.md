@@ -2,13 +2,17 @@
 
 # Projeto
 
-P.I 3 - Projeto Integrador III
+**P.I 3 - Projeto Integrador III**
 
 ## Integrantes
 
 - Arthur Davino
 - Lorenzo Louzada
 - Luís Felipe Ruas
+
+  ## Notebook
+
+ `0-entrega .ipynb`
 
 ## Resumo do Notebook e Objetivos
 Este notebook foi desenvolvido em **R** para servir como um laboratório prático de **Fundamentos da Linguagem R aplicados ao Processamento de Texto e Recuperação de Informação (RI)**. O foco principal foi dominar as estruturas de dados essenciais (vetores, listas, matrizes e fatores), além de explorar funções nativas para manipulação de strings, expressões regulares (regex) e operações matriciais.
