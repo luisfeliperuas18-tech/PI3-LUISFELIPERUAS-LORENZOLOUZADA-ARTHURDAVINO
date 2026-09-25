@@ -1,14 +1,14 @@
 # Consolidado Informações
 
-## Projeto
+# Projeto
 
-**P.J.R.I. — Projeto Integrador**
+**P.I 3 - Projeto Integrador III**
 
 ## Integrantes
 
-- Lorenzo Ribeiro Louzada
-- Luis Felipe Ruas
 - Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
 
 ## Descrição
 
