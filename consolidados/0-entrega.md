@@ -2,7 +2,7 @@
 
 # Projeto Integrador III
 
-Projeto desenvolvido para a disciplina de Projeto Integrador III da FATEC Rubens Lara.
+P.I 3 - Projeto Integrador III
 
 ## Integrantes
 
