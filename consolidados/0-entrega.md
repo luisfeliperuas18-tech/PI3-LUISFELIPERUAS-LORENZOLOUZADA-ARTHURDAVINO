@@ -1,5 +1,15 @@
 # Consolidado Entrega 0 - Introdução ao R
 
+# Projeto Integrador III
+
+Projeto desenvolvido para a disciplina de Projeto Integrador III da FATEC Rubens Lara.
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
 ## Resumo do Notebook e Objetivos
 Este notebook foi desenvolvido em **R** para servir como um laboratório prático de **Fundamentos da Linguagem R aplicados ao Processamento de Texto e Recuperação de Informação (RI)**. O foco principal foi dominar as estruturas de dados essenciais (vetores, listas, matrizes e fatores), além de explorar funções nativas para manipulação de strings, expressões regulares (regex) e operações matriciais.
 
