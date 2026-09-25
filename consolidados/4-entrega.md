@@ -1,5 +1,19 @@
 # Consolidado Entrega 4 - Modelo Probabilístico de Ranqueamento e BM25
 
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `4-entrega .ipynb`
+
 ## Descrição
 
 Este notebook foca na implementação prática do algoritmo **Okapi BM25**, o modelo de ranqueamento probabilístico de texto mais amplamente utilizado em motores de busca clássicos. O exercício contrasta os resultados do BM25 com o Modelo de Espaço Vetorial (TF-IDF + Cosseno) implementado na Aula 02, explorando a influência dos hiperparâmetros $k_1$ e $b$.
