@@ -1,5 +1,19 @@
 # Consolidado Entrega 2 - Modelo de Espaço Vetorial e Similaridade do Cosseno
 
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `2-entrega .ipynb`
+
 ## Descrição
 
 Este notebook contempla a implementação prática do Modelo de Espaço Vetorial (VSM) e a ponderação TF-IDF em linguagem R, utilizando o corpus controlado criado nas aulas iniciais de Recuperação de Informação. O objetivo principal foi transformar textos não estruturados em vetores numéricos e realizar consultas por similaridade de cosseno.
