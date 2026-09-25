@@ -1,6 +1,18 @@
 # Consolidado Entrega 1 - Corpus Sem Snow
 
-# corpus-baixada-santista-sem-snow.ipynb
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `1-entrega .ipynb`
 
 ## Descrição
 
