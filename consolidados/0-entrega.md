@@ -1,6 +1,6 @@
 # Consolidado Entrega 0 - Introdução ao R
 
-# Projeto Integrador III
+# Projeto
 
 P.I 3 - Projeto Integrador III
 
