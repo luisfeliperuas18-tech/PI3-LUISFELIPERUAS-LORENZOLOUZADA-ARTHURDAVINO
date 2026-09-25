@@ -1,5 +1,19 @@
 # Consolidado Entrega 3 - Corpus Com Snow
 
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `3-entrega .ipynb`
+
 # corpus-baixada-santista-com-snow.ipynb
 
 ## Descrição
