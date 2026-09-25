@@ -1,4 +1,4 @@
-# Aula 05 - Modelo Probabilístico de Ranqueamento e BM25
+# Consolidado Entrega 4 - Modelo Probabilístico de Ranqueamento e BM25
 
 ## Descrição
 
