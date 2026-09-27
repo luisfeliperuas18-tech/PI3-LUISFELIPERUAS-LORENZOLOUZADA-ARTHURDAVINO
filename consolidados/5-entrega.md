@@ -1,3 +1,19 @@
+# Consolidado Entrega 5 - Julgamento de Relevância
+
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `5-entrega .ipynb`
+
 # Relatório consolidado dos julgamentos de relevância
 
 ## 1. Visão geral
