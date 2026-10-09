@@ -1,0 +1,23 @@
+# Entrega Aula 5,5 - Métricas de Avaliação
+
+## Descrição
+
+Atividade de casa da Aula 5,5 de Projeto Integrador III, sobre métricas de avaliação de sistemas de busca. A tarefa pedia pra implementar as métricas de avaliação (Precision@k, MAP e nDCG) e depois usar essas métricas pra comparar os dois sistemas de ranqueamento já construídos nas aulas anteriores, o TF-IDF da Aula 02 e o BM25 da Aula 04, identificando qual dos dois tem melhor desempenho nas 3 consultas de exemplo e explicando o porquê olhando consulta por consulta, não só a média geral.
+
+## Principais etapas
+
+Implementação das funções de métrica: Precision@k (proporção de documentos relevantes entre os k primeiros do ranking), Average Precision (precisão média nos pontos em que aparece um documento relevante, usada pra tirar o MAP quando há várias consultas) e nDCG@k (ganho acumulado descontado, normalizado pelo ranking ideal, usando desconto logarítmico log2(posição+1) e graus de relevância de 0 a 2).
+
+Definição de um gabarito de relevância pras 3 consultas de exemplo usadas na Aula 02 e na Aula 04 ("modelo de recuperacao", "busca e relevancia dos documentos", "estatistica e ciencia de dados"), já que essas consultas nunca tinham sido julgadas antes. Cada documento do corpus recebeu uma nota de 0 (não relevante), 1 (parcialmente relevante) ou 2 (relevante) pra cada consulta, olhando o conteúdo semântico de cada um.
+
+Execução do TF-IDF (cosseno, Aula 02) e do BM25 (Aula 04) nas 3 consultas, calculando P@3, AP (que vira MAP ao tirar a média entre as 3 consultas) e nDCG@3 pra cada sistema em cada consulta.
+
+Comparação consulta por consulta: nas consultas 2 e 3 os dois sistemas produziram exatamente o mesmo ranking, então empataram em todas as métricas. A diferença real apareceu só na consulta 1 ("modelo de recuperacao"), onde TF-IDF e BM25 ordenaram os documentos de forma diferente.
+
+## O que foi aprendido
+
+Que métricas diferentes capturam erros diferentes de um mesmo ranking. Na consulta 1, o TF-IDF colocou um documento parcialmente relevante acima de um documento totalmente relevante dentro do top 3, o que prejudicou o nDCG (que é sensível ao grau de relevância e à posição) mas não teve efeito nenhum no P@3 nem no AP binário (porque os dois documentos contavam como "relevante" de qualquer jeito). Já o BM25 acertou essa ordem, mas em compensação colocou um documento não relevante acima de um parcialmente relevante mais pra baixo no ranking, por causa de uma palavra de ligação ("de") que aparece em vários documentos e tem um IDF baixo mas não zero nesse corpus pequeno. Isso reduziu o AP do BM25 nessa consulta.
+
+Resultado final: TF-IDF saiu na frente no MAP médio (0.861 contra 0.850) e BM25 saiu na frente no nDCG@3 médio (0.871 contra 0.832), com empate no P@3 médio (0.778 nos dois). Ou seja, não existe um vencedor absoluto, depende de qual erro a métrica está enxergando.
+
+Também ficou claro um limite dos dois sistemas: na consulta 3, um documento genuinamente relevante não foi recuperado por nenhum dos dois sistemas porque usava a palavra "estatistico" enquanto a consulta usava "estatistica". Como nem TF-IDF nem BM25 fazem nenhum tipo de normalização morfológica das palavras, qualquer variação de forma (singular/plural, gênero, conjugação) já é suficiente pra um documento relevante não ser encontrado, mesmo o ranking estando matematicamente correto. Essa é uma limitação de vocabulário, não do modelo de ranqueamento em si, e é o tipo de problema que métodos baseados em embeddings tentam resolver.
