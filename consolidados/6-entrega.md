@@ -1,6 +1,6 @@
 # Consolidado, PI III, Aula 06, Parte D, 2026-10-09
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
-**Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas · **presentes:** Davino (os demais a confirmar) · **digitou:** Davino, em todos os módulos
+**Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas **
 
 ## 1. O que foi feito
 * M7: Rocchio no gabarito do grupo (q01); completa contra residual
