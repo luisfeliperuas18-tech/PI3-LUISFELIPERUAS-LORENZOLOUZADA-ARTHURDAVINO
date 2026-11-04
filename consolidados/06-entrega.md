@@ -9,7 +9,11 @@
 - Arthur Davino
 - Lorenzo Louzada
 - Luís Felipe Ruas
-  
+
+  ## Notebook
+
+ `06-entrega .ipynb`
+ 
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
 
 ## 1. O que foi feito
