@@ -12,7 +12,7 @@
 
   ## Notebook
 
- `3-entrega .ipynb`
+ `03-entrega .ipynb`
 
 # corpus-baixada-santista-com-snow.ipynb
 
