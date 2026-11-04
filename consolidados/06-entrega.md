@@ -1,4 +1,4 @@
-# Consolidado, PI III, Aula 06, Parte D, 2026-10-09
+# Consolidado Aula 06 Parte D, 2026
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
 **Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas **
 
