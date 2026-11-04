@@ -1,4 +1,4 @@
-# Consolidado Entrega 4 - Modelo Probabilístico de Ranqueamento e BM25
+# Consolidado Entrega 04 - Modelo Probabilístico de Ranqueamento e BM25
 
 # Projeto
 
