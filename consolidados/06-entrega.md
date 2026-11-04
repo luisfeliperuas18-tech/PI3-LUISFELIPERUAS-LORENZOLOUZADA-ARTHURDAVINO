@@ -1,6 +1,16 @@
 # Consolidado Aula 06 - Rocchio, Expansão de Consulta e Pseudo-Feedback
+
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+  
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
-**Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas **
 
 ## 1. O que foi feito
 * M7: Rocchio no gabarito do grupo (q01); completa contra residual
