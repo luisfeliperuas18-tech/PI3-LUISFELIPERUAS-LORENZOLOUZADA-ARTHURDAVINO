@@ -1,4 +1,4 @@
-# Consolidado Aula 06 - Rocchio, expansão de consulta e pseudo-feedback
+# Consolidado Aula 06 - Rocchio, Expansão de Consulta e Pseudo-Feedback
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
 **Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas **
 
