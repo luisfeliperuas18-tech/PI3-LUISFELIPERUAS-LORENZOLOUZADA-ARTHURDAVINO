@@ -1,4 +1,4 @@
-# Consolidado Aula 06 Parte D, 2026
+# Consolidado Aula 06 - Rocchio, expansão de consulta e pseudo-feedback
 *guia versão 1 · tutora: Alexa (Claude) · sessão de grupo · motor06*
 **Grupo:** Arthur Davino, Lorenzo Louzada, Luís Felipe Ruas **
 
