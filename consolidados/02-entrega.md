@@ -12,7 +12,7 @@
 
   ## Notebook
 
- `2-entrega .ipynb`
+ `02-entrega .ipynb`
 
 ## Descrição
 
