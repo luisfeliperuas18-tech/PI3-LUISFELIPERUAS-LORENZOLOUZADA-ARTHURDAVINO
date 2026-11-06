@@ -1,7 +1,21 @@
-# Consolidado, PI III, Aula 07, Parte D: LSA e busca híbrida
+# Consolidado Aula 07 - LSA e busca híbrida
 
-Projeto Integrador III, Motor de Busca. Grupo Porto da Baixada: Arthur Davino Rizzo, Lorenzo Ribeiro Louzada e Luis Felipe Ruas do Nascimento.
-Data: 6 de novembro de 2026. Motor do curso: motor08. Código: `aula07_parteD.ipynb`. Configuração: `7-entrega-config.R`.
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `07-entrega .ipynb`
+
+Projeto Integrador III, Motor de Busca. Grupo: Arthur Davino Rizzo, Lorenzo Ribeiro Louzada e Luis Felipe Ruas do Nascimento.
+Data: 6 de novembro de 2026. Motor do curso: motor08. Código: `07-entrega .ipynb`. Configuração: `7-entrega-config.R`.
 
 ## 1. O que a tarefa pedia
 
