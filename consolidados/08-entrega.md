@@ -1,6 +1,18 @@
-# Aula 08 - Parte D: Reordenacao Neural
+# Consolidado Aula 08 - Parte D: Reordenacao Neural
 
-Grupo: Arthur Davino, Lorenzo Louzada e Luis Felipe Ruas
+# Projeto
+
+**P.I 3 - Projeto Integrador III**
+
+## Integrantes
+
+- Arthur Davino
+- Lorenzo Louzada
+- Luís Felipe Ruas
+
+  ## Notebook
+
+ `08-entrega .ipynb`
 
 ## Metodologia
 
