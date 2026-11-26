@@ -1,19 +1,3 @@
-# Consolidado Aula 08 - Parte D: Reordenacao Neural
-
-# Projeto
-
-**P.I 3 - Projeto Integrador III**
-
-## Integrantes
-
-- Arthur Davino
-- Lorenzo Louzada
-- Luís Felipe Ruas
-
-  ## Notebook
-
- `08-entrega .ipynb`
- 
 # Consolidado — PI III — Aula 08 — Tema 1 (proximidade e janela) 
 *guia versão 1 · tutora: Claude (Anthropic) · motor08 (o motor09 ainda não estava publicado)*
 **Aluno:** Lorenzo Louzada, Artur Davino, Luis Felipe Ruas
